@@ -1,6 +1,6 @@
 # RabbitMQ Demo
 
-Simple "Hello World" example for RabbitMQ to test RabbitMQ.
+Simple "Hello World" example for RabbitMQ.
 
 ## Configuration
 
